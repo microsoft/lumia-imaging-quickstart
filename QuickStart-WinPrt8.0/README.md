@@ -2,16 +2,15 @@ Quick Start
 ===============
 
 Quick Start application demonstrates how to create a simple imaging application
-using the Nokia Imaging SDK.  It shows how to apply a filter effect to an 
+using the Lumia Imaging SDK.  It shows how to apply a filter effect to an 
 image and save it to file.
 
 The example has been developed with Silverlight for Windows Phone devices
 and tested to work on Nokia Lumia devices with Windows Phone 8.
 
 
-For more information on implementation, visit Nokia Lumia
-Developer's Library:
-http://developer.nokia.com/resources/library/Lumia/nokia-imaging-sdk/quick-start.html
+For more information on implementation, visit Lumia Developer's Library:
+http://go.microsoft.com/fwlink/?LinkId=528370
 
 
 1. Usage
