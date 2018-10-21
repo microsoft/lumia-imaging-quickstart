@@ -3,7 +3,7 @@ lumia-imaging-quickstart
 
 Quick Start for Lumia ImagingSDK Windows and Windows Phone 8.1 and Windows phone 8.0
 
-A Lumia example demonstrating the use of the  Lumia Imaging SDK with camera photos. This example app uses the cameraroll and adds a filterto the image.lect an existing photo and apply an effect to it.
+A Lumia example demonstrating the use of the  Lumia Imaging SDK with camera photos. This example app uses the cameraroll and adds a filter to the image.lect an existing photo and applies an effect to it.
 
 Three versions of this example are currently available:
 
